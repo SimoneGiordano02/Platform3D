@@ -56,6 +56,6 @@ Il livello è stato progettato come percorso lineare con aree di piattaforme, ne
 3. Per avviare il gioco:  
    - In Editor: premere **Play**.
 
-Per scaricare la Build su Windows: (https://github.com/SimoneGiordano02/Platform3D/releases/tag/1.0)
+Per scaricare la Build su Windows: (https://github.com/SimoneGiordano02/Platform3D/releases/tag/1.0).
 Estrarre la cartella ed eseguire Platform3D.exe.
  
