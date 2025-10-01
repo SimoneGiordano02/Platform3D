@@ -58,4 +58,7 @@ Il livello è stato progettato come percorso lineare con aree di piattaforme, ne
 
 Per scaricare la Build su Windows: (https://github.com/SimoneGiordano02/Platform3D/releases/tag/1.0).
 Estrarre la cartella ed eseguire Platform3D.exe.
- 
+
+ ##Video dimostrativo
+[![Platform 3D](https://img.youtube.com/vi/7YbCzvNI7-o/0.jpg)](https://youtu.be/7YbCzvNI7-o)
+
