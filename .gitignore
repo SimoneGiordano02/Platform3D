@@ -1,13 +1,71 @@
-# Cartelle e file da ignorare
+# Build artefacts
 Binaries/
-Content/StarterContent/
-.vs/
+Build/
 DerivedDataCache/
 Intermediate/
 Saved/
-Build/
 *.sln
-*.vcxproj
-*.vcxproj.filters
+*.sdf
+*.suo
+*.VC.db
+*.VC.opendb
+*.VC.db-wal
+*.VC.db-shm
+
+# User settings
+.vscode/
+*.user
+*.log
+*.o
+*.obj
+*.pdb
+*.pch
+*.idb
+*.ipch
+*.dll
+*.exe
+*.lib
+*.exp
+*.app
+*.ipa
+*.dSYM
+*.suo
+*.ncb
+*.mode1v3
+*.mode2v3
+*.opendb
+*.OpenFiles
+.idea/
+.vs/
+
+# Unreal Engine auto-generated
+*.generated.*
+*.tlog
+*.tmp
+*.log
+*.csproj
 *.xcodeproj
+*.xcworkspace
+*.xcuserdatad/
+*.xcuserdata/
 *.DS_Store
+Thumbs.db
+
+# Plugin-specific
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+Plugins/*/Saved/
+
+# Ignore unnecessary engine files
+Engine/DerivedDataCache/
+Engine/DerivedData/
+Engine/Saved/
+Engine/Intermediate/
+Engine/Extras/
+
+# Ignore auto-imported assets
+Content/.gitignore
+Config/.gitignore
+
+# Ignore compiled shaders
+Shaders/WorkingDirectory/
