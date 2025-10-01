@@ -1,0 +1,13 @@
+# Cartelle e file da ignorare
+Binaries/
+Content/StarterContent/
+.vs/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.xcodeproj
+*.DS_Store
